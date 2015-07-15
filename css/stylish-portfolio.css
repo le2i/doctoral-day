@@ -245,6 +245,34 @@ hr.small {
     -o-background-size: cover;
 }
 
+/* template header */
+
+.templateheader {
+    display: table;
+    width: 100%;
+    height: 400px;
+    color: #fff;
+    background: url(../img/paper.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+/* venue header */
+
+.venueheader {
+    display: table;
+    width: 100%;
+    height: 400px;
+    color: #fff;
+    background: url(../img/pilon.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
 /* Portfolio */
 
 .portfolio {
@@ -289,4 +317,15 @@ hr.small {
 
 footer {
     padding: 100px 0;
+}
+
+/* Table */
+
+.table > tbody > tr > td {
+     vertical-align: middle;
+}
+
+.table > tbody > tr > th {
+     vertical-align: middle;
+     text-align: center;
 }
