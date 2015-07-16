@@ -273,6 +273,21 @@ hr.small {
     -o-background-size: cover;
 }
 
+/* template header */
+
+.committee {
+    display: table;
+    width: 100%;
+    height: 400px;
+    color: #fff;
+    background: url(../img/committee.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+
 /* Portfolio */
 
 .portfolio {
@@ -328,4 +343,12 @@ footer {
 .table > tbody > tr > th {
      vertical-align: middle;
      text-align: center;
+}
+
+.tablecontact > tbody > tr > td {
+    padding: 0 5px 0 5px;
+}
+
+.text-left {
+    text-align: left;
 }
