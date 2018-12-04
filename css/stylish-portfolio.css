@@ -239,7 +239,7 @@ hr.small {
     position: relative;
     width: 100%;
     height: 100%;
-    background: url(img/condor.jpg) no-repeat center center scroll;
+    background: url(../img/condor.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -323,9 +323,9 @@ hr.small {
 .committee {
     display: table;
     width: 100%;
-    height: 500px;
+    height: 400px;
     color: #fff;
-    background: url(../img/banc.jpg) no-repeat center center scroll;
+    background: url(../img/bang.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
