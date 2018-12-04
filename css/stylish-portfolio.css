@@ -139,8 +139,8 @@ hr.small {
 }
 
 .hr-sc {
-    border: 0; 
-    height: 1px; 
+    border: 0;
+    height: 1px;
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
     margin: 2px 5px 2px 5px;
     padding: 0 0 0 0;
@@ -239,7 +239,7 @@ hr.small {
     position: relative;
     width: 100%;
     height: 100%;
-    background: url(../img/i3m.png) no-repeat center center scroll;
+    background: url(../img/condor.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -297,7 +297,7 @@ hr.small {
     width: 100%;
     height: 400px;
     color: #fff;
-    background: url(../img/dijon.png) no-repeat center center scroll;
+    background: url(../img/creu.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -323,9 +323,9 @@ hr.small {
 .committee {
     display: table;
     width: 100%;
-    height: 400px;
+    height: 500px;
     color: #fff;
-    background: url(../img/league.png) no-repeat center center scroll;
+    background: url(../img/banc.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -400,5 +400,5 @@ footer {
 
 .navbar-fixed-bottom{
     padding-top: 10px;
- 
+
 }
